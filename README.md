@@ -1,0 +1,2 @@
+# masternodes
+Making money project
